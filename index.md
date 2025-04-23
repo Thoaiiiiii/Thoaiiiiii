@@ -3,7 +3,7 @@ layout: default
 title: Trang cá nhân
 ---
 
-# Xin chào! Tôi là Nguyễn Tấn Tú 👋
+# Xin chào! Tôi là Phạm Quốc Thoại 👋
 
 ## 👨‍💻 Giới thiệu
 Tôi là một lập trình viên yêu thích công nghệ và phần mềm.
