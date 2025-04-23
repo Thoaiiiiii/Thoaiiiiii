@@ -1,7 +1,14 @@
 ---
-layout: home
-title: “Trang chủ”
+layout: default
+title: Trang cá nhân
 ---
 
-# Chào mừng!
-Nội dung viết bằng Markdown.
+# Xin chào! Tôi là Nguyễn Tấn Tú 👋
+
+## 👨‍💻 Giới thiệu
+Tôi là một lập trình viên yêu thích công nghệ và phần mềm.
+
+## 🛠 Kỹ năng lập trình
+- C++
+- Python
+- PHP
